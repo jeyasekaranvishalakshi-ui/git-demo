@@ -1,2 +1,4 @@
 Test file for Git.
 My first work on Git.
+Adding 3rd line to pull the changes from remote.
+Done making the changes.
